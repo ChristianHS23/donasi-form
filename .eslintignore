@@ -1,0 +1,22 @@
+build/
+dist/
+node_modules/
+.snapshots/
+*.min.js
+
+# dependencies
+generators
+
+# React build
+build
+
+# React scripts
+scripts
+
+# React generate
+package-lock.json
+
+sdet_test
+/src/__tests__
+/src/serviceWorker.js
+__tests__
