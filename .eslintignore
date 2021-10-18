@@ -17,6 +17,7 @@ scripts
 package-lock.json
 
 sdet_test
+/src
 /src/__tests__
 /src/serviceWorker.js
 __tests__
